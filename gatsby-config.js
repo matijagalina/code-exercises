@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://matijagalina-code-exercises.netlify.app/`, 
     home: {
       title: `Home`,
-      description: `Home page`,
+      description: `List of code exercises`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5eaed911827fcCF_Domain_verify` 

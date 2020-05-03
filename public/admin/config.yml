@@ -1,6 +1,7 @@
 backend:
   name: github
-  repo: W3Layouts/gatsby-starter-delog
+  # change repo to your git repository url
+  repo: matijagalina/code-exercises
 media_folder: static/assets
 public_folder: /assets
 collections:
