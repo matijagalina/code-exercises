@@ -7,16 +7,16 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Delog`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    title: `Code exercises | Matija Galina`,
+    description: `Personal page for hosting code exercises`,
     // change this to you website url
-    siteUrl: `https://delog-w3layouts.netlify.com/`, 
+    siteUrl: `https://matijagalina-code-exercises.netlify.app/`, 
     home: {
-      title: `Hi! I'm Delog`,
-      description: `I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)`,
+      title: `Home`,
+      description: `Home page`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
-    w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 
+    w3l_dom_key: `5eaed911827fcCF_Domain_verify` 
   },
   plugins: [
     {
@@ -55,8 +55,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Delog GatbsyJS Starter`,
-        short_name: `Delog`,
+        name: `Code exercises`,
+        short_name: `Code exercises`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#381696`,
